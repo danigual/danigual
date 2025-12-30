@@ -25,5 +25,5 @@ I am a **Biochemist (UAM)** currently specializing in **Bioinformatics and Compu
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:TU_CORREO@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-guti%C3%A9rrez-%C3%A1lvarez/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danigual40@gmail.com)
