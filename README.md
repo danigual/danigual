@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel Gutierrez 👋
 
-### MSc Student in Bioinformatics & Computational Biology | Data Scientist | AI Specialist
+### Bioinformatician | Data Scientist | Python · R · ML · LLMs
 
 I am a **Biochemist (UAM)** currently specializing in **Bioinformatics and Computational Biology**. My focus is entirely **Dry Lab**, leveraging computational power to solve complex biological challenges through data analysis, machine learning, and structural modeling.
 
