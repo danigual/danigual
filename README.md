@@ -1,26 +1,37 @@
 # Hi there, I'm Daniel Gutierrez 👋
 
-### Bioinformatician | Data Scientist | Python · R · ML · LLMs
+**Data Scientist & Quantitative Pipeline Developer**  
+*Python | SQL | Machine Learning | GenAI & LLMs*
 
-I am a **Biochemist (UAM)** currently specializing in **Bioinformatics and Computational Biology**. My focus is entirely **Dry Lab**, leveraging computational power to solve complex biological challenges through data analysis, machine learning, and structural modeling.
+I am a Data Scientist with a strong quantitative background in Biochemistry and Bioinformatics (Universidad Autónoma de Madrid). I specialize in building end-to-end data processing pipelines, applying statistical and machine learning models, and leveraging Large Language Models (LLMs) to turn complex datasets into actionable business and technical insights.
 
 ---
 
 ## Professional Profile
 
-- **Dry Lab Expertise:** Former **JAE Intern** at the **National Center for Biotechnology (CNB-CSIC)**. I focused on structural bioinformatics, developing **Python** workflows for large-scale interactome analysis.
-- **AI & Machine Learning:** I hold the **DeepLearning.AI Specialization from Coursera**, with deep knowledge in neural network architectures and deep learning applications.
-- **AI Tooling:** Developer of **Custom GPTs** and automated AI solutions designed to optimize research and data processing pipelines.
-- **Data Science:** Passionate about transforming biological data into actionable insights using statistical modeling and advanced visualization.
+* **Data Engineering & Pipelines:** Experience developing modular, scalable Python workflows, automated data ingestion, and custom libraries for complex data processing.
+* **Machine Learning & Analytics:** Deep understanding of predictive modeling, time series forecasting, unsupervised learning (clustering, dimensionality reduction), and statistical analysis.
+* **GenAI & Automation:** Proficient in LLM integration (OpenAI API, Claude), Prompt Engineering, and custom AI agents designed to automate complex analytical workflows.
+* **Software Quality:** Committed to software engineering best practices, including version control, modular architecture, containerization, and technical documentation.
 
 ---
 
 ## Tech Stack
 
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-- **Data Science:** `Pandas` | `NumPy` | `Scikit-learn` | `Matplotlib` | `Seaborn`
-- **Computational Bio:** Structural Bioinformatics | Interactomes | Protein-Protein Interaction (PPI) Networks
-- **AI / Deep Learning:** Neural Networks | Computer Vision | NLP | Custom GPTs
+**Languages & Core:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+**Data Science & Machine Learning:**
+`Pandas` | `NumPy` | `Scikit-Learn` | `PyTorch` | `SciPy` | `Matplotlib` | `Seaborn`
+
+**Developer Tools & Infrastructure:**
+`Git` | `GitHub Actions` | `Docker` | `Pytest` | `PostgreSQL` | `Jupyter`
+
+**AI & LLM Tooling:**
+`OpenAI API` | `Claude Code` | `Prompt Engineering` | `Custom GPTs / Agents` | `RAG`
 
 ---
 
